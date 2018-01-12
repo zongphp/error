@@ -1,0 +1,23 @@
+{
+  "name": "zongphp/error",
+  "description": "错误与异常处理",
+  "keywords": [
+    "zongphp",
+    "error"
+  ],
+  "license": "MIT",
+  "minimum-stability": "stable",
+  "require": {
+    "php": ">=5.4.0",
+    "zongphp/log": "~2.0",
+    "zongphp/config": "~2.0"
+  },
+  "autoload": {
+    "files": [
+      "src/helper.php"
+    ],
+    "psr-4": {
+      "zongphp\\error\\": "src"
+    }
+  }
+}
