@@ -87,7 +87,7 @@
 </div>
 <?php if ( defined( 'ZONGPHP_VERSION' ) ) { ?>
 	<div class="copyright">
-		<a href="http://www.zongphp.com" title="HDPHP官网" target="_blank">
+		<a href="http://www.zongphp.com" title="ZongPHP官网" target="_blank">
 			<b>ZongPHP <?php echo ZONGPHP_VERSION; ?></b>
 		</a>
 		[ <a href="http://www.zongphp.com" class='zongphp' title="zongphp" target="_blank">服务化/组件化/模块化的未来框架产品 </a>]
